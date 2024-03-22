@@ -27,9 +27,11 @@
 etc ...
 ### After adding embedding field plot_embedding_hf from hugging face all-MiniLM-L6-v2
 countries:Array (1)
+<br>
 type:"movie"
-
+<br>
 tomatoes:Object
+<br>
 num_mflix_comments
 0
 plot_embedding_hf

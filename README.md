@@ -32,8 +32,7 @@ type:"movie"
 <br>
 tomatoes:Object
 <br>
-num_mflix_comments
-0
-plot_embedding_hf
-Array (384)
+num_mflix_comments:0
+<br>
+plot_embedding_hf:Array (384)
 

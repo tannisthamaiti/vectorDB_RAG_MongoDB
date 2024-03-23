@@ -35,7 +35,7 @@ tomatoes:Object
 num_mflix_comments:0
 <br>
 plot_embedding_hf:Array (384)
-### JSON edits 
+### JSON edits for search index
 ```
 {
   "mappings": {

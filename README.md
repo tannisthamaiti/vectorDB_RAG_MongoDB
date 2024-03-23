@@ -1,5 +1,5 @@
 # vectorDB_RAG_MongoDB
-
+Project1: Atlas MongoDB movie collection+ add a field plot_embedding_hf using hugging face api on model  and finally perform semantic on model all-MiniLM-L6-v2
 ### Original Sample Movie Data
 
 {"_id":{"$oid":"65fe08ff62a48c85b235846a"},

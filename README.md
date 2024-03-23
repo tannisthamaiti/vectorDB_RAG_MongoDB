@@ -35,4 +35,21 @@ tomatoes:Object
 num_mflix_comments:0
 <br>
 plot_embedding_hf:Array (384)
+### JSON edits 
+```
+{
+  "mappings": {
+    "dynamic": true,
+    "fields": {
+      "plot_embedding_hf": [
+        {
+          "dimensions": 384,
+          "similarity": "dotProduct",
+          "type": "knnVector"
+        }
+      ]
+    }
+  }
+}
+```
 

@@ -53,7 +53,7 @@ plot_embedding_hf:Array (384)
 }
 ```
 ### Search Result
-'''
+
 Movie Name: Gertie the Dinosaur,
 Movie Plot: The cartoonist, Winsor McCay, brings the Dinosaurus back to life in the figure of his latest creation, Gertie the Dinosaur.
 
@@ -65,5 +65,5 @@ Movie Plot: In his final film, F.W. Murnau presents the tale of two young lovers
 
 Movie Name: Dr. Jekyll and Mr. Hyde,
 Movie Plot: Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that changes him into the animalistic Mr. Hyde.
-'''
+
 

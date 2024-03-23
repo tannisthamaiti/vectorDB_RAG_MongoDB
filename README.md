@@ -52,4 +52,18 @@ plot_embedding_hf:Array (384)
   }
 }
 ```
+### Search Result
+'''
+Movie Name: Gertie the Dinosaur,
+Movie Plot: The cartoonist, Winsor McCay, brings the Dinosaurus back to life in the figure of his latest creation, Gertie the Dinosaur.
+
+Movie Name: Regeneration,
+Movie Plot: At 10 years old, Owens becomes a ragged orphan when his sainted mother dies. The Conways, who are next door neighbors, take Owen in, but the constant drinking by Jim soon puts Owen on the ...
+
+Movie Name: Tabu: A Story of the South Seas,
+Movie Plot: In his final film, F.W. Murnau presents the tale of two young lovers on the idyllic island of Bora Bora in the South Pacific. Their life is shattered when the old warrior declares the girl ...
+
+Movie Name: Dr. Jekyll and Mr. Hyde,
+Movie Plot: Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that changes him into the animalistic Mr. Hyde.
+'''
 
